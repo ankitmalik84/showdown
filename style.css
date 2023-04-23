@@ -254,16 +254,12 @@ footer > div{
 }
 .foot-links > ul{
     display: flex;
-    justify-content: center;
-    align-items: center;
     cursor: pointer;
 }
 .foot-link > div{
-    padding: .2rem .4rem;
-    font-size: 1rem;
+    padding: .2rem .5rem;
     display: flex;
     align-items: center;
-    justify-content: space-between;
     transition: .5s;
 }
 .foot-link:hover > div{
