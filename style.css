@@ -227,13 +227,13 @@ section{
   #left-button {
     position: absolute;
     left: 2px;
-    top: 40px;
+    top: 60px;
   }
   
   #right-button {
     position: absolute;
     right: 2px;
-    top: 40px;
+    top: 60px;
     
   }
   
